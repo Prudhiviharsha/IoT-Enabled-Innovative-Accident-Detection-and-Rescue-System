@@ -1,4 +1,5 @@
 #IoT-Enabled-Innovative-Accident-Detection-and-Rescue-System
+
 To detect vehicle accidents automatically using sensors and immediately send alerts (location and message) to emergency contacts or rescue teams through GSM and GPS modules — ensuring faster response and saving lives.
 
 --> PROJECT OVERVIEW:
